@@ -1,0 +1,23 @@
+IT department built a new ‘layer’ on
+top of the conventional processing to accommodate the
+new Shari’a-compliant processing needs. Other vendors
+use parameter settings to significantly change the way
+instruments are processed. Temenos for example uses
+a ‘model-bank’ approach in its T24 product in which
+standard parameters can be set to invoke processing
+designed to meet Shari’a needs.
+
+In place of calculating interest, the system must be able
+to calculate and distribute profit. This profit distribution
+is probably one of the key differentiating factors between
+the different Islamic banking systems with various
+nuances being claimed by individual vendors.
+
+Another important factor to be considered when looking
+at an Islamic banking system is the degree of control
+that a bank will have in its treatment of accounting
+events. Ideally, the system should allow for the complete
+user definition of all accounting explosions for each of
+its user-defined accounting events. Some systems are
+sophisticated enough to be able to account for events
+using multiple accounting standards.
